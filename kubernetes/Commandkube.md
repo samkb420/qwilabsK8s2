@@ -1,4 +1,4 @@
-    1  gcloud auth list
+```    1  gcloud auth list
     2  gcloud config list project
     3  gcloud config set compute/zone us-central1-a
     4  gsutil -m cp -r gs://spls/gsp053/orchestrate-with-kubernetes .
@@ -60,3 +60,5 @@
    60  clear
    61  history
    62  history >Commandkube.md
+   
+   ```
